@@ -3,7 +3,8 @@
 Web Application written in vanilla JS (no JS frameworks) that allows users to track meals along with their calories.
 
 Features include :
-Users can edit meals and remove meals.
+
+    Users can edit meals and remove meals.
 
     There is also a total calories display that shows the sum of calories of all the meals the user entered.
 
