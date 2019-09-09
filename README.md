@@ -1,6 +1,6 @@
 # tracalorie_project
 
-Web Application written in vanilla JS (no JS frameworks) that allows users to track meals along with their calories.
+Web Application written in vanilla JS (no JS frameworks) that allows users to track meals along with their calories. Using the revealing module pattern to separate concerns while also allowing modules to utilize eachother's functions
 
 Features include :
 
